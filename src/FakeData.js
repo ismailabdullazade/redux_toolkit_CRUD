@@ -1,0 +1,37 @@
+export const UsersData = [
+    {
+        id:1,
+        name:"Ismail",
+        username:"isi"
+    },
+    {
+        id:2,
+        name:"Nijat",
+        username:"niko"
+    },
+    {
+        id:3,
+        name:"Elvin",
+        username:"eli"
+    },
+    {
+        id:4,
+        name:"Rasim",
+        username:"raska"
+    },
+    {
+        id:5,
+        name:"Djamil",
+        username:"djaka"
+    },
+    {
+        id:6,
+        name:"Elmar",
+        username:"eli"
+    },
+    {
+        id:7,
+        name:"Nesimi",
+        username:"nesi"
+    }
+]
